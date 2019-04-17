@@ -3,6 +3,8 @@
 
 # Git e Contribuições para projetos Open Source
 
+[Link do Curso](https://www.udemy.com/git-e-github/)
+
 ## Sobre este curso
  Aprenda desde o controle de versão, ferramentas como Git e GitHub, e como contribuir com projetos Open Source.
 
