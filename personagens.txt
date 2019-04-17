@@ -4,3 +4,4 @@ Yoda Master
 Rey
 Qui-Gon Jinn
 Han Solo
+Leia Organa
