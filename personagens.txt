@@ -3,3 +3,4 @@ Obi Wan Kenobi
 Yoda Master
 Rey
 Qui-Gon Jinn
+Han Solo
