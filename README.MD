@@ -1,4 +1,4 @@
-![Git](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiVtcWojtfhAhWELLkGHdf1C_EQjRx6BAgBEAU&url=https%3A%2F%2Fwww.globalemancipation.ngo%2Ftechnology-partners%2Fgithub-logo%2F&psig=AOvVaw3nUu7baNv_ZUbW8NW4hG36&ust=1555589953972689)
+![Git](https://i2.wp.com/www.globalemancipation.ngo/wp-content/uploads/2017/09/github-logo.png?ssl=1git)
 
 
 # Git e Contribuições para projetos Open Source
