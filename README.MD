@@ -3,7 +3,7 @@
 
 # Git e Contribuições para projetos Open Source
 
-##Sobre este curso
+## Sobre este curso
  Aprenda desde o controle de versão, ferramentas como Git e GitHub, e como contribuir com projetos Open Source.
 
 ---
