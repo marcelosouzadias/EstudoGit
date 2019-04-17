@@ -1,7 +1,5 @@
 Luke Skywaker
 Obi Wan Kenobi
 Yoda Master
-<<<<<<< HEAD
 Rey
-=======
->>>>>>> 9b063b5d5b61e2db4f73a4080c645c9644a0207c
+Qui-Gon Jinn
